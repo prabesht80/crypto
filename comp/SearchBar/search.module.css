@@ -1,0 +1,15 @@
+.crypto_search {
+    margin:  30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.crypto_input {
+    background: chocolate;
+    color: cornsilk;
+    border: none;
+    padding:15px;
+    border-radius: 5px;
+    height: 100%;
+}
